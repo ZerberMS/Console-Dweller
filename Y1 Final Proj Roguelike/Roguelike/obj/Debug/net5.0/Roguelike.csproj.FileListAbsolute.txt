@@ -1,0 +1,96 @@
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\bin\Debug\net5.0\Roguelike.exe
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\bin\Debug\net5.0\Roguelike.deps.json
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\bin\Debug\net5.0\Roguelike.runtimeconfig.json
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\bin\Debug\net5.0\Roguelike.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\bin\Debug\net5.0\Roguelike.dll
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\bin\Debug\net5.0\ref\Roguelike.dll
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\bin\Debug\net5.0\Roguelike.pdb
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\obj\Debug\net5.0\Roguelike.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\obj\Debug\net5.0\Roguelike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\obj\Debug\net5.0\Roguelike.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\obj\Debug\net5.0\Roguelike.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\obj\Debug\net5.0\Roguelike.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\obj\Debug\net5.0\Roguelike.dll
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\obj\Debug\net5.0\ref\Roguelike.dll
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\obj\Debug\net5.0\Roguelike.pdb
+C:\Users\Daniel\source\repos\Roguelike\Roguelike\obj\Debug\net5.0\Roguelike.genruntimeconfig.cache
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.exe
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.deps.json
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.runtimeconfig.json
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.runtimeconfig.dev.json
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.dll
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\ref\RogueLike.dll
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.pdb
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.csprojAssemblyReference.cache
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.AssemblyInfoInputs.cache
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.AssemblyInfo.cs
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.csproj.CoreCompileInputs.cache
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.dll
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\ref\RogueLike.dll
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.pdb
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.genruntimeconfig.cache
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.exe
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.deps.json
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.runtimeconfig.json
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.runtimeconfig.dev.json
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.dll
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\ref\RogueLike.dll
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.pdb
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.csprojAssemblyReference.cache
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.AssemblyInfoInputs.cache
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.AssemblyInfo.cs
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.csproj.CoreCompileInputs.cache
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.dll
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\ref\RogueLike.dll
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.pdb
+D:\Study\Visual Studio\Y1 Final Proj\RogueLike Draft\0_Actual Final Proj\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.genruntimeconfig.cache
+C:\Users\Michael\Desktop\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.exe
+C:\Users\Michael\Desktop\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.deps.json
+C:\Users\Michael\Desktop\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.runtimeconfig.json
+C:\Users\Michael\Desktop\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.dll
+C:\Users\Michael\Desktop\Roguelike\Roguelike\bin\Debug\net5.0\ref\RogueLike.dll
+C:\Users\Michael\Desktop\Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.pdb
+C:\Users\Michael\Desktop\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.AssemblyInfo.cs
+C:\Users\Michael\Desktop\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.dll
+C:\Users\Michael\Desktop\Roguelike\Roguelike\obj\Debug\net5.0\ref\RogueLike.dll
+C:\Users\Michael\Desktop\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.pdb
+C:\Users\Michael\Desktop\Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.genruntimeconfig.cache
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.exe
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.deps.json
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.runtimeconfig.json
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.runtimeconfig.dev.json
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.dll
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\ref\RogueLike.dll
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.pdb
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.csprojAssemblyReference.cache
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.AssemblyInfoInputs.cache
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.AssemblyInfo.cs
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.csproj.CoreCompileInputs.cache
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.dll
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\ref\RogueLike.dll
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.pdb
+D:\Study\Visual Studio\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.genruntimeconfig.cache
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.exe
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.deps.json
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.runtimeconfig.json
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.runtimeconfig.dev.json
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.dll
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\ref\RogueLike.dll
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\bin\Debug\net5.0\RogueLike.pdb
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.csprojAssemblyReference.cache
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.AssemblyInfoInputs.cache
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.AssemblyInfo.cs
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.csproj.CoreCompileInputs.cache
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.dll
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\ref\RogueLike.dll
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.pdb
+D:\Study\Visual Studio\1st semester\Y1 Final Proj Roguelike\Roguelike\obj\Debug\net5.0\RogueLike.genruntimeconfig.cache
